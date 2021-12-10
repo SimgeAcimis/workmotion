@@ -1,0 +1,16 @@
+com\example\ws\service\Imlp\MusteriArsivlemeServiceImpl.class
+com\example\ws\dto\MusteriDTO.class
+com\example\ws\PostgreSQLDialectCustom.class
+com\example\ws\controller\MusteriArsivlemeServiceRestController.class
+com\example\ws\ByteArrayDeSerializer.class
+com\example\ws\config\DbConfigurationProperties.class
+com\example\ws\MusteriArsivlemeServiceApplication.class
+com\example\ws\service\MusteriArsivlemeService.class
+com\example\ws\ByteArraySerializer.class
+com\example\ws\dao\MusteriArsivlemeDao.class
+com\example\ws\dto\DosyaDTO.class
+com\example\ws\entity\BaseEntity.class
+com\example\ws\entity\Musteri.class
+com\example\ws\entity\Dosya.class
+com\example\ws\config\DbConfiguration.class
+com\example\ws\dao\impl\MusteriArsivlemeDaoImpl.class

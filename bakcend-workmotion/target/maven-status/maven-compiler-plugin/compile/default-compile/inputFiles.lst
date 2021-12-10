@@ -1,0 +1,17 @@
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\dao\MusteriArsivlemeDao.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\service\Imlp\MusteriArsivlemeServiceImpl.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\PostgreSQLDialectCustom.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\dto\DosyaDTO.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\ByteArrayDeSerializer.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\entity\Kullanici.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\config\DbConfigurationProperties.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\service\MusteriArsivlemeService.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\dao\impl\MusteriArsivlemeDaoImpl.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\config\DbConfiguration.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\entity\Dosya.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\entity\Musteri.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\controller\MusteriArsivlemeServiceRestController.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\ByteArraySerializer.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\dto\MusteriDTO.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\MusteriArsivlemeServiceApplication.java
+C:\Users\simge.acimis\IdeaProjects\musteri-arsivleme-ws1\src\main\java\com\example\ws\entity\BaseEntity.java
